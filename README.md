@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://vk.com/citizzeen">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
@@ -10,10 +11,8 @@
   </a>
 </div>
 
-
-
 <div align="center">
-  <H1>Здравствуйте</H1>
+  <h1>Приветствую вас!</h1>
 </div>
 
 <div id="header" align="center">
@@ -41,5 +40,7 @@ ___
 
 Если у вас есть интересные идеи или проекты, свяжитесь со мной. Я открыт к новым возможностям и всегда рад помочь в реализации креативных решений.
 
+
 📩 Telegram - https://t.me/Anaraket
+
 📩 VK - https://vk.com/citizzeen
