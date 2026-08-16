@@ -1,13 +1,11 @@
 <div align="center">
-  <!-- Динамический векторный хедер. Рисует красивую волну и печатает текст -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2CA5E0&height=220&section=header&text=Artem%20Tulinov&fontSize=50&fontAlignY=38&animation=twinkling&desc=QA%20Automation%20%7C%20DevOps%20%7C%20Python%20Developer&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://t.me/Anaraket"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://vk.com/citizzeen"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
-  <!-- Сюда можешь вписать свой email, HR это любят -->
-  <a href="mailto:tulinovartem4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ТВОЙ_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <br>
