@@ -66,7 +66,6 @@
     🎯 <b>Цель:</b> <code>CKAD Certification</code> <code>AWS Certified Developer</code>
   </p>
   <br>
-  <!-- Ссылка на дневник обучения -->
   <a href="https://github.com/Anaraket/learning-journal" target="_blank">
     <img src="https://img.shields.io/badge/📖_Мой_Дневник_Обучения-Blue?style=for-the-badge&logo=github&logoColor=white" alt="Learning Journal">
   </a>
