@@ -110,11 +110,11 @@
 
 <!-- Статистика коммитов -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaraket&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Artem%27s%20GitHub%20Stats" alt="GitHub Readme Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaraket&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Artem%27s%20GitHub%20Stats" alt="GitHub Readme Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaraket&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaraket&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
 </div>
 
 <!-- Стрик -->
